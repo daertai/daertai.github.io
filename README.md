@@ -5,6 +5,9 @@ We welcome any insterested AI enthusiasts and engineers that would like to parti
 
 <img href="https://www.linkedin.com/in/alberto-fuentes-contreras-237a22181" align="center" alt="Alberto Fuentes Contreras" src="https://github.com/daertai/daertai.github.io/blob/main/alberto.jpeg" width="100" height="100">
 <img align="center" alt="Daniel Fernández" src="https://github.com/daertai/daertai.github.io/blob/main/daniel.jpeg" width="100" height="100">
+
+We will be posting here all the projects we develop; our goals in a long term future are being able to consult other companies looking for easy to understand materials in the AI field; letting them to start up from simple systems, that they can evolve into more complex and robust solutions.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
