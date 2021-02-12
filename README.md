@@ -5,7 +5,6 @@ We welcome any insterested AI enthusiasts and engineers that would like to parti
 
 <img src="https://github.com/daertai/daertai.github.io/blob/main/alberto.jpeg?s=250" width="100" height="100">
 <img src="https://github.com/daertai/daertai.github.io/blob/main/daniel.jpeg?s=250" width="100" height="100">
-![]("https://github.com/daertai/daertai.github.io/blob/main/daniel.jpeg")
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
