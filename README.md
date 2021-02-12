@@ -1,5 +1,9 @@
 ## Welcome to Daert AI
-We are a group of 2 Artificial Intelligence Enthusiasts, that desire to bring simple AI systems that can be understood by anyone with some programming experience
+We are a group of 2 Artificial Intelligence Enthusiasts, that desire to bring simple AI systems that can be understood by anyone with some programming experience. All the developed projects will be Open Source; many of them will be released as a Jupyter Notebook, with explanations between pieces of code and previews of the results obtained after executing it.
+
+We welcome any insterested AI enthusiasts and engineers that would like to participate, and join us in this adventure. At the moment the only 2 members are:
+
+
 
 ### Markdown
 
