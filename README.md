@@ -3,7 +3,8 @@ We are a group of 2 Artificial Intelligence Enthusiasts, that desire to bring si
 
 We welcome any insterested AI enthusiasts and engineers that would like to participate, and join us in this adventure. At the moment the only 2 members are:
 
-
+![](./alberto.jpeg =500x500)
+![](./daniel.jpeg =500x500)
 
 ### Markdown
 
