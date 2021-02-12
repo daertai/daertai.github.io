@@ -3,8 +3,8 @@ We are a group of 2 Artificial Intelligence Enthusiasts, that desire to bring si
 
 We welcome any insterested AI enthusiasts and engineers that would like to participate, and join us in this adventure. At the moment the only 2 members are:
 
-<img src="https://github.com/daertai/daertai.github.io/blob/main/alberto.jpeg" width="100" height="100">
-<img src="https://github.com/daertai/daertai.github.io/blob/main/daniel.jpeg" width="100" height="100">
+<img src="github.com/daertai/daertai.github.io/blob/main/alberto.jpeg" width="100" height="100">
+<img src="github.com/daertai/daertai.github.io/blob/main/daniel.jpeg" width="100" height="100">
 
 ### Markdown
 
