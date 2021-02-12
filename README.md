@@ -3,7 +3,7 @@ We are a group of 2 Artificial Intelligence Enthusiasts, that desire to bring si
 
 We welcome any insterested AI enthusiasts and engineers that would like to participate, and join us in this adventure. At the moment the only 2 members are:
 
-<img align="center" alt="Alberto Fuentes Contreras" src="https://github.com/daertai/daertai.github.io/blob/main/alberto.jpeg?s=250" width="100" height="100">
+<img href="https://www.linkedin.com/in/alberto-fuentes-contreras-237a22181" align="center" alt="Alberto Fuentes Contreras" src="https://github.com/daertai/daertai.github.io/blob/main/alberto.jpeg?s=250" width="100" height="100">
 <img align="center" alt="Daniel Fernández" src="https://github.com/daertai/daertai.github.io/blob/main/daniel.jpeg?s=250" width="100" height="100">
 ### Markdown
 
